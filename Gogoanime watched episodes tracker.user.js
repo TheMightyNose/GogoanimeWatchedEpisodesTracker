@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Gogoanime Watched Episodes Tracker
 // @namespace    https://github.com/TheMightyNose
-// @version      0.2
+// @version      0.3
 // @description  see name
 // @author       TheMightyNose
-// @match        https://www2.gogoanime.io/*
+// @match        https://*.gogoanime.io/*
 // @grant        none
 // ==/UserScript==
 
